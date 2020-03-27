@@ -12,7 +12,7 @@ export default {
     <header class="sticky top-0">
       <Navbar />
     </header>
-    <main class="flex-grow">
+    <main>
       <nuxt />
     </main>
     <footer>Footer</footer>
