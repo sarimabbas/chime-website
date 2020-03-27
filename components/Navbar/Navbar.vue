@@ -8,7 +8,6 @@ export default {
   },
   methods: {
     openMenu() {
-      console.log('hello')
       this.open = !this.open
     }
   }
@@ -52,15 +51,15 @@ export default {
         <div class="hidden sm:block sm:ml-6">
           <div class="flex">
             <a
-              href="#"
+              href="#research"
               class="px-3 py-2 text-sm font-medium leading-5 text-white transition duration-150 ease-in-out bg-gray-900 rounded-md focus:outline-none focus:text-white focus:bg-gray-700"
             >Research</a>
             <a
-              href="#"
+              href="#support"
               class="px-3 py-2 ml-4 text-sm font-medium leading-5 text-gray-300 transition duration-150 ease-in-out rounded-md hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
             >Support</a>
             <a
-              href="#"
+              href="#partners"
               class="px-3 py-2 ml-4 text-sm font-medium leading-5 text-gray-300 transition duration-150 ease-in-out rounded-md hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
             >Partners</a>
           </div>
