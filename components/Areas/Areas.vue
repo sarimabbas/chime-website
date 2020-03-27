@@ -17,7 +17,7 @@ export default {
             class="pb-4 text-4xl font-semibold leading-tight tracking-tight text-gray-800"
           >Areas of research</h1>
           <p
-            class="text-xl md:px-32 lg:px-40"
+            class="text-xl text-center md:px-32 lg:px-40"
           >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, autem, dolorum, repellendus dolore quae eaque vitae dolorem nihil minus consectetur blanditiis alias cumque quos asperiores provident? Ea fugiat corrupti sapiente?</p>
         </div>
         <!-- cards -->
