@@ -8,7 +8,7 @@ export default {
 </script>
 
 <template>
-  <div class="flex flex-col min-h-screen">
+  <div>
     <header class="sticky top-0">
       <Navbar />
     </header>
