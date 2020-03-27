@@ -1,6 +1,6 @@
 <template>
-  <section class="sectionFull">
-    <div class="flex flex-wrap content-between pt-20 md:pt-0 sectionFull">
+  <section class="h-screen">
+    <div class="flex flex-wrap content-between h-full pt-20 md:pt-0">
       <!-- text -->
       <div class="mb-10 md:mb-0 md:items-center md:h-full md:flex md:w-1/2">
         <div class="px-6 md:px-6 lg:pl-16 lg:pr-32">

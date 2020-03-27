@@ -4,10 +4,6 @@
 /* purgecss end ignore */
 @import 'tailwindcss/utilities';
 
-.sectionFull {
-  height: calc(100vh - 4rem);
-}
-
 html {
   scroll-behavior: smooth;
 }
