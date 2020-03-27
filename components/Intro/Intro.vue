@@ -1,5 +1,5 @@
 <template>
-  <section class="h-screen">
+  <section class="md:h-screen">
     <div class="flex flex-wrap content-between h-full pt-20 md:pt-0">
       <!-- text -->
       <div class="mb-10 md:mb-0 md:items-center md:h-full md:flex md:w-1/2">
