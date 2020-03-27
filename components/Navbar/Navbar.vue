@@ -45,7 +45,7 @@ export default {
         <div class="flex items-center justify-center flex-1 sm:items-stretch sm:justify-start">
           <div class="flex-shrink-0">
             <!-- <div class="block h-8 m-auto">Chime logo</div> -->
-            <img class="block w-auto h-8" src="~/assets/white-logo.png" alt />
+            <img class="block w-auto h-10" src="~/assets/white-logo.png" alt />
             <!-- <img class="hidden w-auto h-8 lg:block" src="/img/logos/workflow-logo-on-dark.svg" alt /> -->
           </div>
         </div>
