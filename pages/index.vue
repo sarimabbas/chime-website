@@ -16,7 +16,7 @@
       <!-- image -->
       <div class="md:h-full md:w-1/2 md:block">
         <img
-          class="object-cover h-full"
+          class="object-cover w-full md:h-full"
           src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1435245150715-GZM0ZMYMRTU7D7KOKY1I/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/IMG_2287.JPG?format=2500w"
           alt
         />
