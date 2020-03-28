@@ -2,16 +2,19 @@
   <div>
     <Intro />
     <Areas />
+    <Support />
   </div>
 </template>
 
 <script>
 import Intro from '../components/Intro/Intro'
 import Areas from '../components/Areas/Areas'
+import Support from '../components/Support/Support'
 export default {
   components: {
     Intro,
-    Areas
+    Areas,
+    Support
   }
 }
 </script>

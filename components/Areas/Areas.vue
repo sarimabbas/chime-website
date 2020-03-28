@@ -8,7 +8,7 @@ export default {
 </script>
 
 <template>
-  <section id="research" class="px-6 py-16 bg-gray-100 lg:px-32">
+  <section id="research" class="px-6 py-16 bg-gray-200 lg:px-32">
     <div class="flex flex-wrap items-center h-full">
       <div>
         <!-- text -->
